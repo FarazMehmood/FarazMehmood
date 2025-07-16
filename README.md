@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarazMehmood&show_icons=true&locale=en" alt="Faraz-Mehmood" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FarazMehmood&" alt="zeeshan-latif" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-latif&" alt="zeeshan-latif" /></p>
