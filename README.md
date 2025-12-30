@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FarazMehmood&label=Profile%20views&color=0e75b6&style=flat" alt="FarazMehmood" /> </p>
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m **Senior React Native.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FarazMehmood](https://github.com/FarazMehmood)
 
